@@ -119,7 +119,7 @@ export default {
 
         Vue.use(new VueSocketIo({
           // debug: true,
-          connection: 'https://twitter-project-2021.herokuapp.com/',
+          connection: 'https://zhihproject.xyz/',
           options: {
             query: {
               auth: token
