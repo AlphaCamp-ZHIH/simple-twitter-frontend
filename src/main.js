@@ -18,7 +18,7 @@ if (token) {
   Vue.use(
     new VueSocketIo({
       // debug: true,
-      connection: 'https://zhihproject.xyz',
+      connection: 'https://zhihproject.xyz/',
       // connection: 'http://3e331a904c8b.ngrok.io',
       options: {
         query: {
